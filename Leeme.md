@@ -9,7 +9,7 @@ the email list](http://learnenough.com/#email_list) and [follow @learnenough
 
 Aqui, un enlace al tutorial de HTML de esta *gente tan peligrosa*
 
-		[Enlace fatal](http://.learnenough.com/html-tutorial)
+[Enlace fatal](http://learnenough.com/html-tutorial)
 
 After finishing *Learn Enough™ Git to Be Dangerous*, you'll know enough Git
 to be *dangerous*. This means you'll be able to use Git to track changes in
